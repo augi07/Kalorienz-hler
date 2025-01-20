@@ -8,7 +8,7 @@ Anschliessend im Terminal auch:
 
 npm run dev
 
-mit http://localhost:3000 auf die Kalorienzähler Seite gehen
+mit http://localhost:9000 auf die Kalorienzähler Seite gehen
 
 # Übersicht
 So sieht dann die WepApp aus:
